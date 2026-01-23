@@ -22,7 +22,7 @@ The dashboard helps identify top-performing channels, categories, and content st
 
 ## 📊 Dashboard Pages
 ### 1️⃣ Overview
-[Overview](Dashboard 1.png)
+[Overview](Dashboard1.png)
 
 ## 🔍 Key Insights
 - Channels with medium followers often have higher engagement
